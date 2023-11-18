@@ -41,7 +41,7 @@ def addBooks():
     global author
  
     window=Tk()
-    window.title('Library Management System')
+    window.title('Library Management App')
 
     window.geometry("800x600")
  
