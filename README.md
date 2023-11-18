@@ -15,3 +15,21 @@ Python-based application that simplifies the organization and tracking of a libr
 
    ```bash
    git clone https://github.com/your-username/library-management-system.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd library-management-system
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+### Usage
+
+1. Run the application:
+   ```bash
+   python home.py
+
+2. Follow the on-screen instructions to perform various operations.
