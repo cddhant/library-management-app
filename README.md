@@ -9,7 +9,7 @@ A simple Python-based application that simplifies the organization and tracking 
 - Issue books to library members.
 - Return books to the library.
 
-### Screesnhots
+## Screesnhots
 Main Interface
 ![1  Main Interface](https://github.com/cddhant/library-management-app/assets/70098886/be495aa5-dcbc-4c60-bf89-49a0fec2eafd)
 
