@@ -7,7 +7,7 @@ from issue import *
 from Return import *
 from view import *
  
-db = mysql.connector.connect(host ="localhost", user = "root", password = 'paassword', database='libdb')
+db = mysql.connector.connect(host ="localhost", user = "root", password = 'Siddhant#007', database='libdb')
 cursor = db.cursor()
  
 window=Tk()
